@@ -1,0 +1,20 @@
+{
+  "name": "mood-panel",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler pages dev --port 8791",
+    "local:preparar": "wrangler d1 migrations apply mood-panel --local && node scripts/cargar.mjs && node scripts/toques-local.mjs",
+    "cargar": "node scripts/cargar.mjs",
+    "clave": "node scripts/clave.mjs",
+    "abrir": "node scripts/abrir.mjs",
+    "verificar": "node scripts/capturar.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^25.17.0",
+    "typescript": "5.9.3",
+    "wrangler": "^4.46.0"
+  }
+}

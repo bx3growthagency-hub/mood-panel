@@ -1,0 +1,7 @@
+{
+  "nota": "Conteos de De un tap que se descuentan en el panel, con su motivo a la vista. No modifica la base de los stands.",
+  "filas": [
+    { "codigo": "mood-buenavista-nfc", "origen": "nfc", "dia": "2026-11-11", "hora": 14, "cuenta": 8, "motivo": "pruebas de BX3 al grabar el chip" }
+  ],
+  "dinamicas": []
+}

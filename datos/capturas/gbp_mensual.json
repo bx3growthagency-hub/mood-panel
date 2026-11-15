@@ -1,0 +1,19 @@
+{
+  "fuente": "Google Perfil de Empresa",
+  "detalle_interno": "Leído vía Windsor.ai con la cuenta de BX3, administrador de las 3 fichas",
+  "capturado": "2026-11-11",
+  "campos": ["isla", "mes", "impresiones", "llamadas", "clics_sitio", "como_llegar", "parcial"],
+  "nota": "Solo meses desde que cada ficha tiene datos (Le Meridiem 2025-07; Buenavista 2 y Parque Alegra 2026-06). Los meses anteriores no se cargan: no son cero, son «sin dato». parcial = 1 si el mes no había terminado al capturar. El primer mes de cada ficha puede estar incompleto (no se sabe qué día empezó a registrar). Impresiones = personas únicas por día en Búsqueda y Maps.",
+  "filas": [
+    ["Le Meridiem", "2025-07", 152, 0, 0, 5, 0], ["Le Meridiem", "2025-08", 728, 0, 0, 68, 0], ["Le Meridiem", "2025-09", 995, 0, 0, 46, 0],
+    ["Le Meridiem", "2025-10", 1201, 0, 0, 72, 0], ["Le Meridiem", "2025-11", 933, 0, 0, 49, 0], ["Le Meridiem", "2025-12", 953, 0, 0, 98, 0],
+    ["Le Meridiem", "2026-01", 717, 0, 0, 47, 0], ["Le Meridiem", "2026-02", 501, 0, 0, 43, 0], ["Le Meridiem", "2026-03", 577, 0, 0, 59, 0],
+    ["Le Meridiem", "2026-04", 497, 0, 0, 60, 0], ["Le Meridiem", "2026-05", 496, 0, 0, 45, 0], ["Le Meridiem", "2026-06", 414, 0, 1, 77, 0],
+    ["Le Meridiem", "2026-07", 848, 0, 6, 80, 0], ["Le Meridiem", "2026-08", 1171, 0, 8, 67, 0], ["Le Meridiem", "2026-09", 1175, 0, 7, 42, 0],
+    ["Le Meridiem", "2026-10", 1101, 2, 2, 48, 0], ["Le Meridiem", "2026-11", 372, 2, 3, 20, 1],
+    ["Buenavista 2", "2026-06", 124, 0, 0, 44, 0], ["Buenavista 2", "2026-07", 211, 0, 1, 32, 0], ["Buenavista 2", "2026-08", 287, 0, 0, 42, 0],
+    ["Buenavista 2", "2026-09", 280, 0, 0, 36, 0], ["Buenavista 2", "2026-10", 374, 0, 1, 43, 0], ["Buenavista 2", "2026-11", 177, 1, 1, 24, 1],
+    ["Parque Alegra", "2026-06", 86, 0, 0, 56, 0], ["Parque Alegra", "2026-07", 231, 0, 0, 71, 0], ["Parque Alegra", "2026-08", 264, 0, 0, 50, 0],
+    ["Parque Alegra", "2026-09", 267, 0, 0, 58, 0], ["Parque Alegra", "2026-10", 481, 0, 0, 62, 0], ["Parque Alegra", "2026-11", 448, 0, 0, 4, 1]
+  ]
+}

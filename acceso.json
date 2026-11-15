@@ -1,0 +1,8 @@
+{
+  "nota": "Huellas SHA-256 de las claves del enlace privado. La clave nunca se guarda. 'desarrollo' solo se acepta en localhost.",
+  "produccion": null,
+  "desarrollo": {
+    "clave_sha256": "24c63a1e143f5dff3dcb3c41539f7ee9d5ec0f4abca7e81f3beeed9b09261a18",
+    "desde": "2026-11-11"
+  }
+}
